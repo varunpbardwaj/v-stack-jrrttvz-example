@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150px" src="https://raw.githubusercontent.com/varunpbardwaj/v-stack-jrrttvz/main/src/assets/vStack.svg" alt="logo" />
+    <img width="150px" src="https://github.com/varunpbardwaj/v-stack-jrrttvz-example/blob/main/src/assets/vstack.svg" alt="logo" />
 </p>
 <p align="center" style="font-weight: 800">vStack</p>
 <p align="center" style="font-weight: 400">The best stack for React apps.</p>
